@@ -201,4 +201,3 @@ O projeto é composto por dois arquivos principais:
 
 A página apresenta cinco ícones com efeitos de neon e animações de hover. Cada ícone tem uma cor neon distinta e está associado a diferentes funcionalidades (Home, Perfil, Curtidas, Configurações, e Procurar).
 
-Se houver algum detalhe adicional ou se precisar de mais informações, é só falar!
